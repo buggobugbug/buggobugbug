@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Huỳnh Nhựt Huy!
-I'm a passionate Frontend Developer from Viet Nam. 🚀
+I'm from Viet Nam. 🚀
 
 ### 🌱 Currently learning:
-- Data Analytics
-- Web Development
-- Cloud Computing
+
 
 ### 📊 GitHub Stats
 ![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buggobugbug&show_icons=true&theme=radical)
