@@ -21,37 +21,26 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:huynhnhuthuy@gmail.com">
+  <a href="mailto:pinsherlock1412@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/huynhnhuthuy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://buggobugbug.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://www.facebook.com/stark.harry.39/?locale=vi_VN" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,js,html,css,vscode,github,git" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/buggobugbug/buggobugbug/output/github-contribution-grid-snake.svg" />
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=buggobugbug&count_private=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=buggobugbug&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
@@ -66,4 +55,5 @@
 <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 </div>
+
 <br/>
