@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Tự động chạy mỗi ngày vào 00:00 giờ
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Cho phép bạn chạy thủ công
+  schedule:
+    - cron: "0 0 * * *"  # Tự động chạy mỗi ngày vào 00:00 giờ
+  workflow_dispatch: # Cho phép chạy thủ công từ tab Actions
 
 jobs:
   generate:
@@ -25,4 +25,3 @@ jobs:
           git add github-contribution-grid-snake.svg
           git commit -m "Generate snake animation"
           git push
-
