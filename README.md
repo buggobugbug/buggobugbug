@@ -19,3 +19,7 @@ I'm from Viet Nam. 🚀
 ### 🔗 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
+### 🐍 A Snake Eating my Contributions Graph
+![snake gif](https://github.com/buggobugbug/buggobugbug/blob/output/github-contribution-grid-snake.svg)
+
