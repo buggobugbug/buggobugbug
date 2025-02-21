@@ -61,7 +61,3 @@
 	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 <p align="center">Con rắn này ăn mừng mỗi khi tôi đóng góp... hoặc mỗi khi tôi quên commit 😅</p>
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoquoczero&layout=compact" style="height: 195px;" />
-</div>
