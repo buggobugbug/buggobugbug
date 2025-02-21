@@ -65,9 +65,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoquoczero&layout=compact" style="height: 195px;" />
 </div>
-<h3 align="left">Kết nối với tôi (Nhưng đừng spam tôi nhé, tôi cũng có giới hạn 😜):</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/24541726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24541726" height="30" width="40" /></a>
-<a href="https://fb.com/quocbao.nguyenlam.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quocbao.nguyenlam.1" height="30" width="40" /></a>
-</p>
-
